@@ -11,12 +11,12 @@ According to the data I scraped from <a href='https://static.bc-edx.com/data/web
 </br>Below you can see graphs for average minimum temperature on Mars:
 </br>![Average Minimum Temperatures](./MarsScraping/screenshots/2_temp.png)
 </br>![Average Minimum Temperatures Sorted](./MarsScraping/screenshots/2_temp_sorted.png)
-</br>As can we see, the 3rd month has the lowest average min temperatures, and the 8th month has the highest average min temperatures.
+</br>As we can see, the 3rd month has the lowest average min temperatures, and the 8th month has the highest average min temperatures.
 
 </br>Below you can see graphs for average pressure on Mars:
 </br>![Average Pressure](./MarsScraping/screenshots/2_pressure.png)
 </br>![Average Pressure Sorted](./MarsScraping/screenshots/2_pressure_sorted.png)
-</br> As can we see, the 6th month has the lowest average pressure, while the 9th month has the highest average pressure.
+</br> As we can see, the 6th month has the lowest average pressure, while the 9th month has the highest average pressure.
 
 </br>Below you can see the graph that shows the daily minimum temperature of each observation in the data set:
 </br>![All Minimum Temperatures](./MarsScraping/screenshots/2_temp_all.png)
